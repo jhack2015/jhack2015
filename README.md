@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jose! <br/><a href="https://github.com/jhack2015">Programmer</a>, <a href="https://www.linkedin.com/in/josevelajr/">Passionate Cybersecurity Analyst</a>
+<h1>Hi, I'm Jose! <br/><a href="https://github.com/jhack2015">Github Projects</a>, <a href="https://www.linkedin.com/in/josevelajr/">Passionate Cybersecurity Analyst</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
