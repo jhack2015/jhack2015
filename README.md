@@ -1,9 +1,10 @@
-<h1>Hi, I'm Jose! <br/><a href="https://github.com/jhack2015">Github Projects</a>, <a href="https://www.linkedin.com/in/josevelajr/">Passionate Cybersecurity Analyst</a>
+<h1>Hi, I'm Jose! <br/> <a href="https://www.linkedin.com/in/josevelajr/">I am an aspiring Cybersecurity Analyst</a>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b>Azure/Cloud Project</b>
+- <b>Azure/Cloud Projects</b>
   - [Creating a Live SOC/Honeynet in Azure] (https://github.com/jhack2015/Cloud-SOC)
+  - [Configuration Policy in Azure] )https://medium.com/@jhackprojects/create-intune-policy-for-firefox-browsers-03656781e422)
 
 <h2>📺 Popular YouTube Videos</h2>
 
